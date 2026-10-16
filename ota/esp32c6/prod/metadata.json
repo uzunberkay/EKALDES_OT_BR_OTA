@@ -1,5 +1,5 @@
 {
   "version": "1.0.1",
-  "url": "https://raw.githubusercontent.com/uzunberkay/EKALDES_OT_BR_OTA/main/ota/esp32c6/prod/firmware.bin",
-  "sha256": "64825d260ba617b785840f5dfd3d4a5549a6e864928f9a5957fd896d3cbff254"
+  "url": "https://uzunberkay.github.io/EKALDES_OT_BR_OTA/ota/esp32c6/prod/firmware.bin",
+  "sha256": "3e50e589afa145206a7dedf9eface1b1371050239f20553007c5206c514e9e7a"
 }
